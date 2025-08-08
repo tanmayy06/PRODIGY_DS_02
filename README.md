@@ -48,7 +48,7 @@ Navigate to the project folder:
 bash
 Copy
 Edit
-cd <your-repo-name>
+cd <PRODIGY_DS_02>
 Place train.csv in the same folder as titanic_eda.py.
 
 Run the script:
